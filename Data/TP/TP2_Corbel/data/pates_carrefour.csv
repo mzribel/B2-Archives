@@ -1,0 +1,65 @@
+Type,Marque,Poids,Prix
+Penne,Barilla,1.0,1.99
+Penne,Barilla,0.5,1.09
+Penne,Carrefour,1.0,1.69
+Penne,Carrefour,0.5,0.96
+Penne,Panzani,1.0,2.19
+Penne,Panzani,0.5,1.19
+Penne,Grand'Mère,0.250,1.55
+Penne,Rummo,0.5,2.09
+Macaroni,Barilla,1.0,1.99
+Macaroni,Barilla,0.5,1.09
+Macaroni,Carrefour,1.0,1.69
+Macaroni,Carrefour,0.5,0.96
+Macaroni,Panzani,1.0,2.19
+Macaroni,Panzani,0.5,1.19
+Macaroni,Grand'Mère,0.250,1.55
+Macaroni,Rummo,0.5,2.09
+Spaghetti,Barilla,0.5,1.05
+Spaghetti,Barilla,1.0,1.99
+Spaghetti,Carrefour,0.5,0.79
+Spaghetti,Carrefour,1.0,1.55
+Spaghetti,Panzani,0.5,1.05
+Spaghetti,Panzani,1.0,1.95
+Spaghetti,Grand'Mère,0.250,1.55
+Spaghetti,Rummo,0.5,2.09
+Tagliatelles,Barilla,0.5,1.65
+Tagliatelles,Barilla,1.0,2.45
+Tagliatelles,Carrefour,0.5,1.29
+Tagliatelles,Panzani,0.5,2.39
+Lasagnes,Barilla,0.5,2.15
+Lasagnes,Carrefour,0.5,1.55
+Lasagnes,Granoro,0.5,3.75
+Farfalles,Alpina Savoie,0.5,2.29
+Farfalles,Barilla,0.5,1.85
+Farfalles,Panzani,1.0,2.19
+Farfalles,Panzani,0.5,1.19
+Farfalles,Carrefour,1.0,1.75
+Farfalles,Carrefour,0.5,0.99
+Farfalles,Garofalo,0.5,2.09
+Farfalles,Rummo,0.5,2.09
+Fusilli,Barilla,0.5,1.09
+Fusilli,Barilla,0.5,1.39
+Fusilli,Carrefour,1.0,1.55
+Fusilli,Carrefour,0.5,0.85
+Fusilli,De Cecco,0.5,1.65
+Fusilli,Rummo,1.0,3.69
+Cannelloni,Barilla,0.250,1.55
+Pipe Rigate,Barilla,0.5,1.15
+Pipe Rigate,Carrefour,0.5,0.99
+Pipe Rigate,Carrefour,1.0,1.95
+Pipe Rigate,Panzani,0.5,1.49
+Torsades,Barilla,0.5,1.09
+Torsades,Barilla,1.0,1.99
+Torsades,Grand'Mère,0.250,1.55
+Torsades,Lustucru,0.5,1.45
+Coquillettes,Barilla,1.0,1.99
+Coquillettes,Barilla,0.5,1.09
+Coquillettes,Panzani,0.5,1.11
+Coquillettes,Panzani,1.0,1.95
+Coquillettes,Carrefour,1.0,0.85
+Coquillettes,Carrefour,0.5,1.55
+Coquillettes,Simpl,1.0,1.28
+Coquillettes,Lustucru,0.5,1.09
+Coquillettes,Alpina Savoie,0.5,2.29
+Coquillettes,Panzani,1.0,1.95
